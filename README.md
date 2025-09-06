@@ -103,10 +103,10 @@ Below is an example of the formatted weather report displayed in the terminal:
 
 ```
 Weather report for Delhi:
-🌡️  Temperature: 29.08 ℃
+🌡️ Temperature: 29.08 ℃
 🤔 Feels Like: 33.09 ℃
 💧 Humidity: 71 %
-☁️  Condition: Scattered clouds
+☁️ Condition: Scattered clouds
 💨 Wind Speed: 3.31 m/s
 🧭 Pressure: 1005 hPa
 📅 Data Fetched At: 2025-09-07 00:17:21
