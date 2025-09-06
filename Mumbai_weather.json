@@ -1,0 +1,10 @@
+{
+    "city": "Mumbai",
+    "temperature (C)": 26.65,
+    "feels_like (C)": 26.65,
+    "humidity (%)": 81,
+    "condition": "Overcast clouds",
+    "wind_speed (m/s)": 5.42,
+    "pressure (hPa)": 1007,
+    "fetched_at": "2025-09-07 00:26:42"
+}

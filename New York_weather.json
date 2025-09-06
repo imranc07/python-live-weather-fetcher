@@ -1,0 +1,10 @@
+{
+    "city": "New York",
+    "temperature (C)": 27.53,
+    "feels_like (C)": 29.26,
+    "humidity (%)": 65,
+    "condition": "Overcast clouds",
+    "wind_speed (m/s)": 4.55,
+    "pressure (hPa)": 1012,
+    "fetched_at": "2025-09-07 00:26:52"
+}
