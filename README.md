@@ -40,9 +40,9 @@ pip install requests
 - Replace the placeholder API key in weather.py with your own OpenWeatherMap API key.
 
 - Run the script:
-```bash
-python weather_app.py
-```
+  ```bash
+  python weather_app.py
+  ```
 - Check the output:
 - Terminal will display formatted weather reports.
 - JSON files (e.g., Delhi_weather.json) will be saved automatically in the same folder.
@@ -71,7 +71,7 @@ for city in cities:
 ## 📂 Project Structure
 ```
 Weather-Info-Fetcher/
-│-- weather.py            # Main Python script
+│-- weather_app.py        # Main Python script
 │-- README.md             # Documentation
 │-- Mumbai_weather.json   # Example saved weather data
 │-- Delhi_weather.json    # Example saved weather data
